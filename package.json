@@ -43,12 +43,12 @@
     "fs-path": "0.0.25",
     "googleapis": "^39.2.0",
     "is-base64": "^1.1.0",
-    "jpeg-js": "^0.3.3",
+    "jpeg-js": "^0.4.4",
     "jquery": "^3.4.0",
     "js-beautify": "^1.13.13",
     "litegraph.js": "^0.7.9",
     "mark.js": "^8.11.1",
-    "mathjs": "^5.10.3",
+    "mathjs": "^15.1.1",
     "multicast-dns": "^7.2.0",
     "nano-time": "^1.0.0",
     "nouislider": "^13.1.1",
@@ -66,7 +66,7 @@
     "shepherd.js": "^8.0.2",
     "simple-get": "^3.1.0",
     "ssh2-promise": "^0.1.5",
-    "three": "^0.118.3",
+    "three": "^0.183.2",
     "three-fbx-loader": "^1.0.3",
     "three-gltf-loader": "^1.111.0",
     "three-orbitcontrols": "^2.110.3",
@@ -76,7 +76,7 @@
     "ws": "^8.8.1"
   },
   "devDependencies": {
-    "electron": "^28.1.0",
+    "electron": "^41.1.1",
     "electron-builder": "^23.6.0",
     "rimraf": "^2.6.1"
   },
